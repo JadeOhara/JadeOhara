@@ -11,7 +11,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
--  I’m currently studing at ![Rocketseat](https://github.com/Rocketseat)&nbsp;
+- 💻 I’m currently studing at [Rocketseat](https://github.com/Rocketseat)&nbsp;
 
 ## 🛠 Tech Stack
 
@@ -31,6 +31,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadeohara&layout=compact&langs_count=7&theme=jolly"/>
 </div>
 
+  📆 Last updated on October 27, 2021
 
 <!--
 **JadeOhara/JadeOhara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
