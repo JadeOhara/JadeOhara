@@ -31,7 +31,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadeohara&layout=compact&langs_count=7&theme=jolly"/>
 </div>
 
-  📆 Last updated on October 27, 2021
+ #### 📆 Last updated on October 27, 2021
 
 <!--
 **JadeOhara/JadeOhara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
