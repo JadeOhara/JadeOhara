@@ -4,7 +4,7 @@
   <img align="center" src="https://img.shields.io/badge/-jadeohara-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 
-- 👩‍💻 Graduated in Computer Engineering
+👩‍💻 Graduated in Computer Engineering<br>
 Currently studying:
 - Data Analysis
 - Low Code Automation
