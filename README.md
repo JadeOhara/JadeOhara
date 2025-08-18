@@ -12,9 +12,9 @@ Currently studying:
 
 - 🌱 Last studies:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![SQL](https://img.shields.io/badge/-Python-05122A?style=flat&logo=sql)&nbsp;
-![N8N](https://img.shields.io/badge/-Python-05122A?style=flat&logo=n8n)&nbsp;
-![Excel](https://img.shields.io/badge/-Python-05122A?style=flat&logo=excel)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
+![N8N](https://img.shields.io/badge/-N8N-05122A?style=flat&logo=n8n)&nbsp;
+![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=excel)&nbsp;
 
 ## 🛠 Tech Stack
 
