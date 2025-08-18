@@ -5,7 +5,7 @@
 </a>
 
 - 👩‍💻 Graduated in Computer Engineering
-  Currently studying:
+Currently studying:
 - Data Analysis
 - Low Code Automation
 - Data Science
