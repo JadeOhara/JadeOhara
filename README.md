@@ -24,7 +24,9 @@ Currently studying:
 ![Antigravity](https://img.shields.io/badge/-Antigravity-05122A?style=flat&logo=rocket&logoColor=ffffff)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=excel)&nbsp;
+![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)&nbsp;
 ![Claude](https://img.shields.io/badge/-Claude-05122A?style=flat&logo=claude)&nbsp;
+![Deepseek](https://img.shields.io/badge/-Deepseek-05122A?style=flat&logo=deepseek)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Shell Script](https://img.shields.io/badge/-Shell%20Script-05122A?style=flat&logo=shell%20script)&nbsp;
 
