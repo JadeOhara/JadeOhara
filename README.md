@@ -30,15 +30,8 @@ Currently studying:
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Shell Script](https://img.shields.io/badge/-Shell%20Script-05122A?style=flat&logo=shell%20script)&nbsp;
 
-## ⚙️ GitHub Analytics
 
-<div align="left">
-  <a href="https://github.com/jadeohara">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jadeohara&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadeohara&layout=compact&langs_count=7&theme=jolly"/>
-</div>
-
- #### 📆 Last updated on October 27, 2021
+ #### 📆 Last updated on March 09, 2026
 
 <!--
 **JadeOhara/JadeOhara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
