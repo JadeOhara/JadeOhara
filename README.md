@@ -18,13 +18,15 @@ Currently studying:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
-![Postgress](https://img.shields.io/badge/-PostgressPostgress-05122A?style=flat&logo=sql)&nbsp;
+![Postgress](https://img.shields.io/badge/-Postgress-05122A?style=flat&logo=sql)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Cursor](https://img.shields.io/badge/-Cursor-05122A?style=flat&logo=cursor&logoColor=ffffff)&nbsp;
 ![Antigravity](https://img.shields.io/badge/-Antigravity-05122A?style=flat&logo=rocket&logoColor=ffffff)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=excel)&nbsp;
 ![Claude](https://img.shields.io/badge/-Claude-05122A?style=flat&logo=claude)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Shell Script](https://img.shields.io/badge/-Shell%20Script-05122A?style=flat&logo=shell%20script)&nbsp;
 
 ## ⚙️ GitHub Analytics
 
