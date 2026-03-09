@@ -7,25 +7,24 @@
 👩‍💻 Graduated in Computer Engineering<br>
 Currently studying:
 - Data Analysis
-- Low Code Automation
-- Data Science
-
-- 🌱 Lastast studies
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
-![N8N](https://img.shields.io/badge/-N8N-05122A?style=flat&logo=n8n)&nbsp;
-![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=excel)&nbsp;
+- Intelligent Automation
+- N8N
 
 ## 🛠 Tech Stack
-
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![N8N](https://img.shields.io/badge/-N8N-05122A?style=flat&logo=n8n)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
+![Postgress](https://img.shields.io/badge/-PostgressPostgress-05122A?style=flat&logo=sql)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Cursor](https://img.shields.io/badge/-Cursor-05122A?style=flat&logo=cursor&logoColor=ffffff)&nbsp;
+![Antigravity](https://img.shields.io/badge/-Antigravity-05122A?style=flat&logo=rocket&logoColor=ffffff)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=excel)&nbsp;
+![Claude](https://img.shields.io/badge/-Claude-05122A?style=flat&logo=claude)&nbsp;
 
 ## ⚙️ GitHub Analytics
 
